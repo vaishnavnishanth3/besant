@@ -1,0 +1,1 @@
+SELECT * FROM atm_machine.account_details;
