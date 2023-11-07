@@ -6,7 +6,7 @@ s2ssum=225 # Arrears - 0
 s3ssum=191 # Arrears - 0 
 s4ssum=179 # Arrears - 0 
 s5ssum=151 # Arrears - 0 
-s6ssum=142 # Arrears - 1 
+s6ssum=162 # Arrears - 1 
 s7ssum=0 # Arrears - 0
 s8ssum=0 # Arrears - 0
 
@@ -23,9 +23,6 @@ s5csum=22
 s6csum=21
 s7csum=22
 s8csum=19
-
-#arrear:
-s6csum=18
 
 totcsum=s1csum+s2csum+s3csum+s4csum+s5csum+s6csum
 print(f"Total Semester Credits Sum is {totcsum}")
