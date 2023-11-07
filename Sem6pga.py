@@ -21,9 +21,6 @@ cs6p8=1
 cs6p9=2
 print("")
 
-#arrear:
-cs6p5=0
-
 #scores:
 s6p1=int(input("Enter Score for Sub 1                 : "))
 s6p2=int(input("Enter Score for Sub 2                 : "))
