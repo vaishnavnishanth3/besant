@@ -1,10 +1,8 @@
 package Supply_chain_management;
 
-import java.sql.*;
-
 public class Index
 {
-    public static void main(String[] args) throws ClassNotFoundException, SQLException
+    public static void main(String[] args)
     {
         Login_signup.intro();
     }
