@@ -1,1 +1,0 @@
-SELECT * FROM covid_data.admin_database;
