@@ -1,1 +1,0 @@
-SELECT * FROM atm_machine.login_data;
